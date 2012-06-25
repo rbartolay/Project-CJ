@@ -1,0 +1,63 @@
+# BCH .htaccess file
+# @author : Ryan Kristoffer Bartolay
+# .htaccess is the default name for a file that is used to indicate who can or cannot access the contents 
+# of a specific file directory from the Internet or an intranet. The .htaccess file is a configuration file 
+# that resides in a directory and indicates which users or groups of users can be allowed access to the files 
+# contained in that directory.
+
+# Protect files and directories from prying eyes.
+<FilesMatch "\.(engine|inc|info|install|make|module|profile|test|po|sh|.*sql|theme|tpl(\.php)?|xtmpl)$|^(\..*|Entries.*|Repository|Root|Tag|Template)$">
+  Order allow,deny
+</FilesMatch>
+
+# Make BCH handle any 404 errors.
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php
+
+# Magic Quotes is a process that automagically escapes incoming data to the PHP script. 
+# It's preferred to code with magic quotes off and to instead escape the data at runtime, as needed.
+php_flag magic_quotes_gpc Off
+
+# The PHP safe mode is an attempt to solve the shared-server security problem. It is architecturally incorrect to 
+# try to solve this problem at the PHP level, but since the alternatives at the web server and OS levels aren't very 
+# realistic, many people, especially ISP's, use safe mode for now.
+php_flag safe_mode Off
+
+# A rewrite engine is software that modifies a web URL's appearance (URL rewriting). Rewritten URLs (sometimes known as short, 
+# fancy URLs, or search engine friendly - SEF) are used to provide shorter and more relevant-looking links to web pages. 
+# The technique adds a degree of separation between the files used to generate a web page and the URL that is presented to the World.
+RewriteEngine on
+
+# Rewrite rules can operate on the full URLs, including the path-info and query string portions, and may be used in per-server 
+# context (httpd.conf), per-virtualhost context (<VirtualHost> blocks), or per-directory context (.htaccess files and <Directory> blocks). 
+# The rewritten result can lead to further rules, internal sub-processing, external request redirection, or proxy passthrough, depending 
+# on what flags you attach to the rules. 
+#
+# SO... in the following declarations we are pointing of cleaning the url by getting the current url page THEN calling the specified page
+# from the directory. 
+# Example :
+#		- in the browser, "https://www.bpocareerhub.com/sigin", we then declare that this url will call the page "signin.php"
+# 		RewriteRule ^signin$ /signin.php [L]
+#		
+#		- This is not name sensitive, meaning "signin" page is not restricted routing only to "signin.php"
+# 		RewriteRule ^signin$ /registration.php [L]
+#		
+# In case of GET variables are passed, we declare RewriteRule as following 
+# Example : 
+#		- Current URL will be "https//www.bpocareerhub.com/user/6572" we then declare
+# 		RewriteRule ^user\//?(.*)$ /users.php?user_id=$1 [L,QSA]
+#		- In Case of multiple parameters for example, "https//www.bpocareerhub.com/jobs/55/6572"
+# 		RewriteRule ^jobs\//?(.*)$ /users_jobs.php?job_id=$1&user_id=$2 [L,QSA]
+#
+
+RewriteRule ^$ main.php [L]
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d [OR]
+RewriteCond %{REQUEST_FILENAME} -f	
+RewriteRule ^.*$ - [NC,L]
+RewriteRule ^(.*)?(.*)$ main.php?%{query_string} [NC,L] # forces any pages to main, also GET, POST and FILE
+
+
+
+

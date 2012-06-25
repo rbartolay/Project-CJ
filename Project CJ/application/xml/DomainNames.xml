@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<domains>
+	<domain id="1" title="Local" name="localhost" template="canadajobsgo" />
+	<domain id="2" title="Australia Jobs Expo" name="australiajobsexpo" template="australiajobsexpo" />		
+	<domain id="3" title="Canada Jobs Go" name="canadajobsgo" template="canadajobsgo" />
+	<domain id="4" title="UK Jobs" name="ukjobsonly" template="canadajobsgo" />
+	<domain id="5" title="Jobs in Canada" name="jobsincanada" template="canadajobsgo" />
+	<domain id="6" title="Nurse Jobs Global" name="nursejobsglobal" template="canadajobsgo" />
+	<domain id="7" title="Nurse Jobs in Us" name="nursejobsinus" template="canadajobsgo" />
+</domains>

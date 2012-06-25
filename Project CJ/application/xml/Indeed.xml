@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response version="2">
+
+    <query>java</query>
+    <location></location>
+
+    <dupefilter>true</dupefilter>
+    <highlight>false</highlight>
+    <totalresults>63089</totalresults>
+    <start>1</start>
+    <end>10</end>
+    
+    
+    <pageNumber>0</pageNumber>
+    
+    
+    
+    
+    
+    <results>
+        
+            
+                <result>
+                    <jobtitle>Software Engineer 2 (eBay)</jobtitle>
+                    <company>eBay</company>
+                    <city>San Jose</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Jose, CA</formattedLocation>
+                    <source>eBay</source>
+                    <date>Sat, 26 May 2012 13:33:51 GMT</date>
+                    <snippet>2 year of relevant experience . Expert-level system programming skills in Java or C++, knowledge of scripting languages. Strong focus on simple design, clean... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=5a61b8e2d416f4c0&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>37.337914</latitude>
+                    <longitude>-121.89011</longitude>
+                    <jobkey>5a61b8e2d416f4c0</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>San Jose, CA</formattedLocationFull>
+                    <formattedRelativeTime>6 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Engineer</jobtitle>
+                    <company>OCLC</company>
+                    <city>Dublin</city>
+                    <state>OH</state>
+                    <country>US</country>
+                    <formattedLocation>Dublin, OH</formattedLocation>
+                    <source>OCLC</source>
+                    <date>Thu, 31 May 2012 18:32:12 GMT</date>
+                    <snippet>seeking candidates for a Java Engineer position at... working in an open office layout   Hard Skills:  Java (strong)  Spring 3 (knowledgeable)  Javascript... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7f3642b4547775bd&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>40.0989</latitude>
+                    <longitude>-83.10989</longitude>
+                    <jobkey>7f3642b4547775bd</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Dublin, OH</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Senior Software Engineer</jobtitle>
+                    <company>Netflix</company>
+                    <city>San Jose</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Jose, CA</formattedLocation>
+                    <source>Netflix</source>
+                    <date>Mon, 21 May 2012 10:25:00 GMT</date>
+                    <snippet>Engineer for Server Side engineering with a solid Java background. You will be a part of highly talented... with majority of it being Java/J2EE - Excellent SQL... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=cb8c3a232080e1f9&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>37.337914</latitude>
+                    <longitude>-121.89011</longitude>
+                    <jobkey>cb8c3a232080e1f9</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>San Jose, CA</formattedLocationFull>
+                    <formattedRelativeTime>11 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Software Engineer</jobtitle>
+                    <company>Qualcomm</company>
+                    <city>San Diego</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>San Diego, CA</formattedLocation>
+                    <source>Qualcomm</source>
+                    <date>Tue, 29 May 2012 19:16:00 GMT</date>
+                    <snippet>some examples are Linux, BSD, PostgreSQL, LVM, Dojo, Django,   Subversion, Java-Source, jboss, Redmine, Rails and many others). Candidate does not need to have... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=a64d901ac134d149&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>32.714287</latitude>
+                    <longitude>-117.15385</longitude>
+                    <jobkey>a64d901ac134d149</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>San Diego, CA</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Sr. Java Developer</jobtitle>
+                    <company>Bank Of America</company>
+                    <city>New York</city>
+                    <state>NY</state>
+                    <country>US</country>
+                    <formattedLocation>New York, NY</formattedLocation>
+                    <source>Bank of America</source>
+                    <date>Tue, 29 May 2012 21:20:56 GMT</date>
+                    <snippet>adjust resources and priorities accordingly Qualifications &amp;gt; Senior level Java 1.6+ &amp;gt; Object Oriented, multi-threaded programming &amp;gt; XML &amp;gt; Sybase RDBMS 12.5... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=c4fc3ce62b85876e&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>40.71154</latitude>
+                    <longitude>-74.00549</longitude>
+                    <jobkey>c4fc3ce62b85876e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>New York, NY</formattedLocationFull>
+                    <formattedRelativeTime>3 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>JAVA/J2EE Developer</jobtitle>
+                    <company>General Dynamics - IT</company>
+                    <city>Towson</city>
+                    <state>MD</state>
+                    <country>US</country>
+                    <formattedLocation>Towson, MD</formattedLocation>
+                    <source>General Dynamics - IT</source>
+                    <date>Fri, 01 Jun 2012 05:33:05 GMT</date>
+                    <snippet>experience in development of JAVA applications. Prior... work experience. 1.	Experience with programming, Java, J2EE, JSP, Oracle, MQ and Websphere. 2.	Knowledge... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7f71076750a4c7b6&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>39.4011</latitude>
+                    <longitude>-76.5989</longitude>
+                    <jobkey>7f71076750a4c7b6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Towson, MD</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Software Developer 4</jobtitle>
+                    <company>Oracle</company>
+                    <city>Pleasanton</city>
+                    <state>CA</state>
+                    <country>US</country>
+                    <formattedLocation>Pleasanton, CA</formattedLocation>
+                    <source>Oracle</source>
+                    <date>Fri, 01 Jun 2012 10:11:00 GMT</date>
+                    <snippet>looking for a senior Java developer to join a small... A strong programming background, including strong Java development experience   + Test and Behavior Driven... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=7d3b62221fa30adb&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>37.662086</latitude>
+                    <longitude>-121.87363</longitude>
+                    <jobkey>7d3b62221fa30adb</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Pleasanton, CA</formattedLocationFull>
+                    <formattedRelativeTime>20 hours ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Consultants</jobtitle>
+                    <company>Oracle</company>
+                    <city>Irving</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Irving, TX</formattedLocation>
+                    <source>Oracle</source>
+                    <date>Fri, 01 Jun 2012 03:44:00 GMT</date>
+                    <snippet>Hardware/software integration; 4) Supply Chain Management; 5) SQL, PL/SQL, and Java computer languages; 6) UNIX, Linux, and Windows operating systems; 7) Oracle... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b36193733e2c99ec&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>32.813187</latitude>
+                    <longitude>-96.94505</longitude>
+                    <jobkey>b36193733e2c99ec</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Irving, TX</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Software Engineer</jobtitle>
+                    <company>Jack Henry</company>
+                    <city>Allen</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Allen, TX</formattedLocation>
+                    <source>Jack Henry</source>
+                    <date>Wed, 30 May 2012 09:45:00 GMT</date>
+                    <snippet>diagnose defects. Job Requirements: MINIMUM QUALIFICATIONS  * 2+ years of Java development background  * Familiar with Spring core and Eclipse RCP  * Financial... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=2bcb8e50eaa0a158&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>33.085163</latitude>
+                    <longitude>-96.61539</longitude>
+                    <jobkey>2bcb8e50eaa0a158</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Allen, TX 75002</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Developer</jobtitle>
+                    <company>Convergys</company>
+                    <city>Cincinnati</city>
+                    <state>OH</state>
+                    <country>US</country>
+                    <formattedLocation>Cincinnati, OH</formattedLocation>
+                    <source>Convergys</source>
+                    <date>Sat, 02 Jun 2012 05:22:52 GMT</date>
+                    <snippet>Java Developer Exposure to MOBILE APP DEVELOPMENT... 4.6, 5.0 / Java 1.5, 1.6 Android 1.6+ / Java 1.5 Windows 7 Mobile NICE TO HAVE: WebLogic 10.3 / Java 1... </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=b5b23a81c3ca6f5f&amp;qd=1fiEaqupQkxIkuETWoMjwmsImOND9kX4EWGzUTIHwpRfGonj270ans0WE77iP1HDbCab74K8JE6utWV34TMlfDjRf1GoyahbLXjpxiIJpuU&amp;indpubnum=3181266314692699&amp;atk=16ulv9sqt0g304cj</url>
+                    <onmousedown>indeed_clk(this, &#039;5906&#039;);</onmousedown>
+                    <latitude>39.15934</latitude>
+                    <longitude>-84.45605</longitude>
+                    <jobkey>b5b23a81c3ca6f5f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <formattedLocationFull>Cincinnati, OH</formattedLocationFull>
+                    <formattedRelativeTime>1 hour ago</formattedRelativeTime>
+                </result>
+        
+    </results>
+</response>

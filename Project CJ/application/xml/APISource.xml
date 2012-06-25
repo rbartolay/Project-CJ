@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apis>
+	<api id="1" name="Indeed" url="http://www.indeed.com/" logo="indeed.jpg"/>
+	<api id="2" name="Career Jet" url="http://www.careerjet.com" logo="careerjet.png"/>
+	<api id="3" name="Career Builder" url="http://api.careerbuilder.com/" logo="careerbuilder.gif"/>
+	<api id="4" name="Job Search Engine" url="http://www.job-search-engine.com/publisher/spec/" logo="jobsearchengine.gif"/>
+	<api id="5" name="Simply Hired" url="http://www.simplyhired.com/a/publishers/overview" logo=""/>
+	<api id="6" name="Monster" url="http://www.monster.com" logo="monster.jpg" />
+</apis>
